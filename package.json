@@ -1,0 +1,19 @@
+{
+  "name": "node-restify-mongoose-testing",
+  "version": "0.0.0",
+  "description": "Writing testable HTTP APIs - the basics",
+  "scripts": {
+    "test": "mocha spec --recursive"
+  },
+  "dependencies": {
+    "mockgoose": "^4.0.2",
+    "mongoose": "^4.1.9",
+    "restify": "^4.0.3"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "hippie": "^0.4.0",
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.1"
+  }
+}
