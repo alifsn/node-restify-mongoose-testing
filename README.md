@@ -1,5 +1,7 @@
 # node-restify-mongoose-testing
 
+[![Build Status](https://travis-ci.org/eduponte/node-restify-mongoose-testing.svg)](https://travis-ci.org/eduponte/node-restify-mongoose-testing)
+
 This repo demonstrates some testing, both unit and integration, of a RESTful api on a node.js server.
 
 ## The app
