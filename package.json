@@ -2,6 +2,7 @@
   "name": "node-restify-mongoose-testing",
   "version": "0.0.0",
   "description": "Writing testable HTTP APIs - the basics",
+  "main": "./server.js",
   "scripts": {
     "test": "mocha spec --recursive"
   },
